@@ -5,7 +5,7 @@ app.use(express.json());
 
 const fullName = "adi_seth"; 
 const dob = "27082004";    
-const email = "adseth19@gmail.com"; 
+const email = "adi.seth2022@vitstudent.ac.in"; 
 const rollNumber = "22BCE2897"; 
 
 function processData(arr) {
